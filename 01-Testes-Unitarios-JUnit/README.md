@@ -12,5 +12,5 @@
 - Para o círculo: 2π para o raio
 - Para o quadrado: 4 * lado
 
-📝 Devemos criar um teste para os círculos e um teste para os quadrados. Em seguida, confirme se as duas fórmulas foram calculadas corretamente.
+Devemos criar um teste para os círculos e um teste para os quadrados. Em seguida, confirme se as duas fórmulas foram calculadas corretamente.
 
